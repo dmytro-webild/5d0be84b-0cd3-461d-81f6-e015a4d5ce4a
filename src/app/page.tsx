@@ -61,7 +61,7 @@ export default function LandingPage() {
       }}
       title="Nature's Finest Wellness Products"
       description="Experience the natural power of aloe vera for your health, beauty, and daily vitality. Trusted wellness products delivered to your door."
-      imageSrc="http://img.b2bpic.net/free-photo/sotol-drink-still-life_23-2151058001.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/sotol-drink-still-life_23-2151058001.jpg?_wi=1"
       imageAlt="natural wellness aloe vera product"
     />
   </div>
@@ -74,7 +74,7 @@ export default function LandingPage() {
       description="I'm Jane Doe, a certified distributor of Forever Living products. My mission is to share the life-changing benefits of aloe vera and natural supplements with everyone."
       subdescription="With over 10 years of experience, I ensure every customer gets authentic products tailored to their health goals."
       icon={Shield}
-      imageSrc="http://img.b2bpic.net/free-photo/close-up-portrait-green-eyed-brunette-woman-hair-band-white-t-shirt-against-wall-windows-cacti_197531-17042.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/close-up-portrait-green-eyed-brunette-woman-hair-band-white-t-shirt-against-wall-windows-cacti_197531-17042.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -91,7 +91,7 @@ export default function LandingPage() {
           name: "Aloe Vera Gel",
           price: "$34.99",
           variant: "Pure Natural",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-with-sleep-mask-holding-glass-water-lime_23-2148537315.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-with-sleep-mask-holding-glass-water-lime_23-2148537315.jpg?_wi=1",
         },
         {
           id: "p2",
@@ -149,7 +149,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/shopper-using-online-store-mobile-app-phone-examining-modern-fashion-items-collection-buying-merchandise-boutique-client-looking-clothing-line-retail-shop-website_482257-67405.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/sotol-drink-still-life_23-2151058001.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/sotol-drink-still-life_23-2151058001.jpg?_wi=2",
           imageAlt: "app mobile interface healthy",
         },
         {
@@ -161,7 +161,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/advert-cafe_1098-13002.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-green-eyed-brunette-woman-hair-band-white-t-shirt-against-wall-windows-cacti_197531-17042.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-green-eyed-brunette-woman-hair-band-white-t-shirt-against-wall-windows-cacti_197531-17042.jpg?_wi=2",
           imageAlt: "app mobile interface healthy",
         },
         {
@@ -173,7 +173,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/front-view-woman-holding-smartphone_23-2150232403.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-with-sleep-mask-holding-glass-water-lime_23-2148537315.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-with-sleep-mask-holding-glass-water-lime_23-2148537315.jpg?_wi=2",
           imageAlt: "app mobile interface healthy",
         },
       ]}
@@ -218,7 +218,7 @@ export default function LandingPage() {
           button: {
             text: "Order Now",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/sotol-drink-still-life_23-2151058001.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/sotol-drink-still-life_23-2151058001.jpg?_wi=3",
           imageAlt: "wellness industry icon brand",
         },
         {
@@ -234,7 +234,7 @@ export default function LandingPage() {
           button: {
             text: "Order Now",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-green-eyed-brunette-woman-hair-band-white-t-shirt-against-wall-windows-cacti_197531-17042.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-green-eyed-brunette-woman-hair-band-white-t-shirt-against-wall-windows-cacti_197531-17042.jpg?_wi=3",
           imageAlt: "wellness industry icon brand",
         },
       ]}
