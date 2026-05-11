@@ -13,7 +13,7 @@ import ProductCardFour from '@/components/sections/product/ProductCardFour';
 import SocialProofOne from '@/components/sections/socialProof/SocialProofOne';
 import TestimonialAboutCard from '@/components/sections/about/TestimonialAboutCard';
 import TestimonialCardOne from '@/components/sections/testimonial/TestimonialCardOne';
-import { Facebook, Instagram, Shield, Twitter } from "lucide-react";
+import { Facebook, Instagram, Shield, Twitter, Mail, Phone, MessageCircle } from "lucide-react";
 
 export default function LandingPage() {
   return (
@@ -57,7 +57,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       tag="About Us"
       title="Dedicated to Your Well-being"
-      description="I'm Jane Doe, a certified distributor of Forever Living products. My mission is to share the life-changing benefits of aloe vera and natural supplements with everyone."
+      description="I'm Jane Doe, a certified distributor of Forever Living products. My mission is to share the life-changing benefits of aloe vera and natural supplements with everyone. Reach me anytime for personal guidance!"
       subdescription="With over 10 years of experience, I ensure every customer gets authentic products tailored to their health goals."
       icon={Shield}
       imageSrc="http://img.b2bpic.net/free-photo/close-up-portrait-green-eyed-brunette-woman-hair-band-white-t-shirt-against-wall-windows-cacti_197531-17042.jpg?_wi=1"
@@ -182,7 +182,7 @@ export default function LandingPage() {
       background={{ variant: "plain" }}
       tag="Contact Us"
       title="Start Your Journey Today"
-      description="Have questions about products? Get in touch with me directly."
+      description="Have questions? You can reach me directly via email at contact@foreverwellness.com or via WhatsApp at +1 (555) 012-3456."
       inputPlaceholder="Enter your email address to get the catalog"
       imageSrc="http://img.b2bpic.net/free-photo/high-angle-pieces-aloe-vera-marble-background_23-2148241800.jpg"
       imageAlt="High angle of pieces of aloe vera on marble background"
@@ -195,9 +195,9 @@ export default function LandingPage() {
       logoText="Forever Wellness"
       copyrightText="© 2025 Forever Wellness. All rights reserved."
       socialLinks={[
-        { icon: Facebook, href: "#", ariaLabel: "Facebook" },
-        { icon: Instagram, href: "#", ariaLabel: "Instagram" },
-        { icon: Twitter, href: "#", ariaLabel: "Twitter" },
+        { icon: Mail, href: "mailto:contact@foreverwellness.com", ariaLabel: "Email" },
+        { icon: Phone, href: "tel:+15550123456", ariaLabel: "Phone" },
+        { icon: MessageCircle, href: "https://wa.me/15550123456", ariaLabel: "WhatsApp" },
       ]}
     />
   </div>
