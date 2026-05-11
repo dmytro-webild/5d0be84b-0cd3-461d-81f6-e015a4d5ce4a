@@ -47,7 +47,7 @@ export default function LandingPage() {
       background={{ variant: "gradient-bars" }}
       title="Nature's Finest Wellness Products"
       description="Experience the natural power of aloe vera for your health, beauty, and daily vitality. Trusted wellness products delivered to your door."
-      imageSrc="http://img.b2bpic.net/free-photo/sotol-drink-still-life_23-2151058001.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/sotol-drink-still-life_23-2151058001.jpg?_wi=1"
       imageAlt="natural wellness aloe vera product"
     />
   </div>
@@ -60,7 +60,7 @@ export default function LandingPage() {
       description="I'm Jane Doe, a certified distributor of Forever Living products. My mission is to share the life-changing benefits of aloe vera and natural supplements with everyone."
       subdescription="With over 10 years of experience, I ensure every customer gets authentic products tailored to their health goals."
       icon={Shield}
-      imageSrc="http://img.b2bpic.net/free-photo/close-up-portrait-green-eyed-brunette-woman-hair-band-white-t-shirt-against-wall-windows-cacti_197531-17042.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/close-up-portrait-green-eyed-brunette-woman-hair-band-white-t-shirt-against-wall-windows-cacti_197531-17042.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -122,11 +122,11 @@ export default function LandingPage() {
         {
           id: "pro",          title: "Total Beauty",          price: "$129",          period: "/month",          features: ["Skincare Pack", "Aloe Gel", "Priority Support"],
           button: { text: "Order Now" },
-          imageSrc: "http://img.b2bpic.net/free-photo/sotol-drink-still-life_23-2151058001.jpg",          imageAlt: "wellness industry icon brand"},
+          imageSrc: "http://img.b2bpic.net/free-photo/sotol-drink-still-life_23-2151058001.jpg?_wi=2",          imageAlt: "wellness industry icon brand"},
         {
           id: "elite",          title: "Complete Vitality",          price: "$199",          period: "/month",          features: ["Full Supplement Set", "Beauty & Care", "Personal Coaching"],
           button: { text: "Order Now" },
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-green-eyed-brunette-woman-hair-band-white-t-shirt-against-wall-windows-cacti_197531-17042.jpg",          imageAlt: "wellness industry icon brand"},
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-green-eyed-brunette-woman-hair-band-white-t-shirt-against-wall-windows-cacti_197531-17042.jpg?_wi=2",          imageAlt: "wellness industry icon brand"},
       ]}
       title="Wellness Bundles"
       description="Special value packs for a complete wellness routine."
